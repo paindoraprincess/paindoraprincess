@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @paindoraprincess
 - 👀 I’m interested in learning all things android and ethical hacking.
-- 🌱 I’m currently learning kotlin.
+- 🌱 I’m currently learning python!
 - 💞️ I’m looking to collaborate on anything I might be able to assist with to get experience.
 - 📫 How to reach me princesspaindora@gmail.com
 
